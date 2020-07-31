@@ -1,0 +1,1 @@
+## Singleton pattern is used to ensure that one instance, and the provide a global point of access it.
